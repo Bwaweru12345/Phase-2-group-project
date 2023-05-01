@@ -45,6 +45,6 @@ This project was contributed by:
 - [Henry Waweru](https://github.com/henryweru)
 - [Bryan Waweru](https://github.com/Bwaweru12345)
 - [Godwin Yampoi](https://github.com/Godwin-Yampoi)
-- [Beatrice Mwenja]()
+- [Beatrice Mwenja](https://github.com/beatricemwenje)
 
 
