@@ -3,7 +3,7 @@
 
 # Project Title
 
-Movie App
+
 
 ## Description
 
