@@ -11,7 +11,7 @@ Our Real Estate
 This is a Real Estate website that is used by the user to purchase a house or even evaluate the prices of different houses.
 
 
-As a user I can:
+# As a user I can:
 - Buy a house from here.
 - Filter out different price ranges for the different houses.
 - Book an appointment to view the house 
