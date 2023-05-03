@@ -48,12 +48,6 @@ If any problems occurs/arises make sure to check and confirm you have entered th
 ```
 
 ```
-or through our personal Emails below;
-
-- [Henry Waweru](henry.waweru@student.moringaschool.com)
-- [Bryan Waweru](bryanwaweru1076@gmail.com)
-- [Godwin Yampoi](https://github.com/Godwin-Yampoi)
-- [Beatrice Mwenja](https://github.com/beatricemwenje)
 
 
 # Authors
