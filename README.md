@@ -6,14 +6,11 @@
 Movie App
 
 ## Description
-This is a simple Movie App which enables users to search for a movie, buy a movie ticket from the comfort of your home or from anywhere at anytime with just one click of a button.
+
+
 
 As a user I can:
-* Buy a movie ticket
-* Rate a certain movie
-* Filter the types of movies that I want to watch
-* Like a movie
-* Comment and share views on a certain movie
+
 
 ## Getting Started
 
@@ -35,7 +32,7 @@ In order for you to use the content on this repo ensure you have the following:
 
 ## Help
 
-If any problems arise make sure to check and confirm you have searched using the right link and entered and spelled the name of the movie correctly
+
 ```
 
 ```
