@@ -41,7 +41,8 @@ If any problems occurs/arises make sure to check and confirm you have entered th
 - The location
 - Desired price range
 - Correct description
-
+ 
+ *Etc
 ```
 
 ```
