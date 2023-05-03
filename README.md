@@ -24,7 +24,7 @@ This is a Real Estate website that is used by the user to purchase a house or ev
 In order for you to use the content on this repo ensure you have the following:
 
 * A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
-* nodejs 16.18.1
+* 
 
 ### Executing program
 
@@ -37,6 +37,10 @@ In order for you to use the content on this repo ensure you have the following:
 
 ## Help
 
+If any problems occurs/arises make sure to check and confirm you have entered the correct input while filtering out the details, such as;
+- The location
+- Desired price range
+- Correct description
 
 ```
 
