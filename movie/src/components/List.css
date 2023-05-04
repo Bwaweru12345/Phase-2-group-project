@@ -1,0 +1,63 @@
+.property-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.property-card img {
+  max-width: 200px;
+  max-height: 150px;
+  margin-right: 16px;
+  border-radius: 8px;
+}
+
+.property-card h2 {
+  margin: 0;
+  margin-bottom: 8px;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.property-card p {
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+.property-card button {
+  margin-top: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.property-card button:hover {
+  background-color: #3E8E41;
+}
+
+.property-card.expanded {
+  flex-direction: column;
+}
+
+.property-card.expanded img {
+  max-width: 100%;
+  max-height: 100%;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+
+.expanded-content {
+  margin-top: 16px;
+}
+
+.expanded-content p {
+  margin-bottom: 8px;
+}

@@ -1,0 +1,124 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "name": "Colonial-style house",
+        "address": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1500,
+        "price": 500000,
+        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "This house is characterized by its handcrafted details, such as exposed rafters, decorative brackets, and built-in cabinetry. It often has a low-pitched roof with wide eaves and a front porch"
+      },
+      {
+        "id": 2,
+        "name": "Bungalow-style house",
+        "address": "456 Oak Ave",
+        "city": "Somecity",
+        "state": "NY",
+        "zip": "67890",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "sqft": 2000,
+        "price": 700000,
+        "image": "https://i.pinimg.com/564x/f5/7f/9d/f57f9d3b3f7935074387f189a9e744b6.jpg",
+        "description": "This house is inspired by the architecture of early American settlers, with a symmetrical design, steeply pitched roof, and brick or clapboard siding. It typically has a central entrance and a fireplace in each room."
+
+      },
+      {
+        "id": 3,
+        "address": "789 Maple Blvd",
+        "city": "Othercity",
+        "state": "FL",
+        "zip": "54321",
+        "bedrooms": 7,
+        "bathrooms": 5,
+        "sqft": 1000,
+        "price": 300000,
+        "image": "https://i.pinimg.com/564x/3e/88/94/3e8894cea77803c656b8d68f8070e598.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Luxury Beachfront Villa",
+        "address": "123 Ocean Dr",
+        "city": "Miami Beach",
+        "state": "FL",
+        "zip": "33139",
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "sqft": 8000,
+        "price": 15000000,
+        "image": "https://i.pinimg.com/564x/78/e6/1e/78e61ec7cbffd056d27e7b93583189ea.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Historic Brownstone",
+        "address": "456 Elm St",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11201",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 3200,
+        "price": 3000000,
+        "image": "https://i.pinimg.com/564x/30/94/af/3094af3b89778664e456980638f840a4.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mountain Retreat",
+        "address": "789 Pine Rd",
+        "city": "Aspen",
+        "state": "CO",
+        "zip": "81611",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 4000,
+        "price": 5000000,
+        "image": "https://i.pinimg.com/564x/cd/d2/88/cdd2889854ab39b546a5e0a72dad4c39.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Charming Bungalow",
+        "address": "123 Oak St",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97202",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1100,
+        "price": 400000,
+        "image": "https://i.pinimg.com/564x/9b/87/7b/9b877b6ad7350344b5791fd38d352c10.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Modern Condo",
+        "address": "456 Main St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 700,
+        "price": 500000,
+        "image": "https://i.pinimg.com/564x/50/3a/f4/503af450b440bbebc3336404d935ef14.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Sprawling Ranch",
+        "address": "789 Maple Ave",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75214",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 3000,
+        "price": 800000,
+        "image": "https://i.pinimg.com/564x/3c/b7/af/3cb7afd7aa8da7bf31d92f7a147e632b.jpg"
+      }
+    ]
+  }
+  
