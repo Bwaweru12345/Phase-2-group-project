@@ -24,16 +24,7 @@ This is a Real Estate website that is used by the user to purchase a house or ev
 In order for you to use the content on this repo ensure you have the following:
 
 * A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
-* 
 
-### Executing program
-
-* You can be able to run this app by opening it in the browser using this link
-
-<!-- to be added -->
-```
-
-```
 
 ## Help
 
@@ -44,10 +35,6 @@ If any problems occurs/arises make sure to check and confirm you have entered th
  
  *Etc
  
- If you encounter an unknown error of you need some assitance you can either contact us vie the website using the link below; 
-```
-
-```
 
 
 # Authors
